@@ -1,5 +1,6 @@
 const button = document.getElementById("sikseven");
+const judul = document.getElementById("judul");
 
 button.addEventListener("click", function() {
-    alert("SIX SEVEN");
+    judul.textContent = "sikseven";
 });
