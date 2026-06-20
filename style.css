@@ -1,7 +1,12 @@
 h1{
-    color: rgb(109, 14, 55);
+    color: rgb(131, 61, 163);
 }
 
 p{
-    color: rgb(109, 14, 55);
+    color: rgb(131, 61, 163);
+}
+
+button{
+    background-color: rgb(131, 61, 163);
+    color: white;
 }
